@@ -19,6 +19,10 @@
 
 Firefox系ブラウザでも、標準的なUserScript環境で動作する構成です。
 
+## Install
+
+[ユーザースクリプトをインストール](https://raw.githubusercontent.com/CKYlab/tanuki-thread-tools/main/tanuki-thread-tools.user.js)
+
 ## Usage
 
 1. `tanuki-thread-tools.user.js` をユーザースクリプトマネージャーへ登録
