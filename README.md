@@ -16,8 +16,11 @@
 動作確認:
 - Chrome + Violentmonkey
 - Brave + Violentmonkey
+- Floorp + Violentmonkey
+- Android / Firefox + Violentmonkey
+- iPhone / Safari + Userscripts
 
-Firefox系ブラウザでも、標準的なUserScript環境で動作する構成です。
+上記以外のFirefox系ブラウザでも、標準的なUserScript環境で動作する構成です。
 
 ## Install
 
